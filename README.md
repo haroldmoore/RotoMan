@@ -12,3 +12,4 @@ https://youtu.be/8i1aSHSvCyA
                                                  
 ![RotoMan](https://user-images.githubusercontent.com/91569879/210694569-20cd4c6e-adf9-4fe3-b22e-0db839f43c1a.jpg)
 
+'roto2' is much more solid, a major improvement :-)
